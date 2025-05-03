@@ -6,28 +6,37 @@ Car Rental project using React JS,HTML,CSS.
 
 DEMO OUTPUTS:
 1.HOME PAGE
-![image](https://github.com/user-attachments/assets/c1d8bb82-073d-46a4-b58e-2e525bbf6a0c)
+![Screenshot 2025-05-03 130124](https://github.com/user-attachments/assets/11999ae7-59d2-4469-a725-636aa29dcb91)
+
 
 2.LOGIN PAGE
-![image](https://github.com/user-attachments/assets/47c7699e-71c0-4fac-81bf-60e54bc7e4d6)
+![Screenshot 2025-05-03 130234](https://github.com/user-attachments/assets/9fbfef35-2737-4f19-a8d7-accb3463bce2)
+
 
 3.REGISTER PAGE
-![image](https://github.com/user-attachments/assets/f9432f01-3758-427e-ad80-bb253a531c3e)
+![Screenshot 2025-05-03 130321](https://github.com/user-attachments/assets/d14d4ff2-802a-4812-968c-5321b3dddcc9)
+
 
 4.BOOKING PAGE
-![image](https://github.com/user-attachments/assets/eb2b0229-6463-43ff-ba20-1210c6e8b025)
+![Screenshot 2025-05-03 130520](https://github.com/user-attachments/assets/592dc96c-11e8-47b8-be79-8be499a9623f)
+
 
 5.PAYMENT PAGE
-![image](https://github.com/user-attachments/assets/ddbab80b-571d-45a0-b2f0-6bcd1620136a)
+![Screenshot 2025-05-03 130616](https://github.com/user-attachments/assets/8283b3ca-6059-4520-b82a-0a98e4b04082)
+
 
 6.BOOKING CONFIRMATION
-![image](https://github.com/user-attachments/assets/1c7dafd7-eb98-42d4-83a8-e895644a9899)
+![Screenshot 2025-05-03 130709](https://github.com/user-attachments/assets/354a38b8-77ab-42ea-8819-c5f20d950953)
+
 
 7.MYBOOKINGS
-![image](https://github.com/user-attachments/assets/9d4a7645-9827-4a41-87cb-bf28e2de5bfe)
+![Screenshot 2025-05-03 130804](https://github.com/user-attachments/assets/dc5a0ef4-8072-4d2f-b516-c986af04483c)
+
 
 8.PROFILE
-![image](https://github.com/user-attachments/assets/15851906-623f-419a-81f1-10e51aed6bf6)
+![Screenshot 2025-05-03 130835](https://github.com/user-attachments/assets/f26796b5-53e0-4536-817f-f66f832dc2f9)
+
 
 9.ABOUT US 
-![image](https://github.com/user-attachments/assets/f86f953c-3594-4358-a484-02fe0f826548)
+![Screenshot 2025-05-03 130909](https://github.com/user-attachments/assets/0616c846-4969-40c8-b7b6-1caf98c62f27)
+
