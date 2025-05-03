@@ -1,0 +1,107 @@
+.booking-history-container {
+    max-width: 950px;
+    margin: 40px auto;
+    padding: 24px 16px;
+    background: #fff;
+    border-radius: 18px;
+    box-shadow: 0 6px 32px rgba(30, 136, 229, 0.08), 0 1.5px 4px rgba(0,0,0,0.03);
+    font-family: 'Poppins', 'Roboto', Arial, sans-serif;
+  }
+  
+  .booking-history-title {
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 2.1rem;
+    color: #1976d2;
+    letter-spacing: 0.5px;
+  }
+  
+  .no-bookings {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #555;
+    margin-top: 40px;
+  }
+  
+  .table-responsive {
+    overflow-x: auto;
+  }
+  
+  .booking-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    background: #f7faff;
+    border-radius: 14px;
+    overflow: hidden;
+    box-shadow: 0 2px 10px rgba(30, 136, 229, 0.07);
+  }
+  
+  .booking-table thead {
+    background: linear-gradient(90deg, #1976d2, #42a5f5);
+    color: #fff;
+  }
+  
+  .booking-table th,
+  .booking-table td {
+    padding: 14px 18px;
+    border: 1px solid #e3eaf3;
+    text-align: center;
+    font-size: 1.07rem;
+  }
+  
+  .booking-table th {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+  }
+  
+  .booking-table tbody tr:nth-child(even) {
+    background: #e3f2fd;
+  }
+  
+  .booking-table tbody tr:hover {
+    background: #bbdefb;
+    transition: background 0.25s;
+  }
+  
+  .status-badge {
+    display: inline-block;
+    padding: 4px 14px;
+    border-radius: 12px;
+    font-size: 0.97rem;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: #fff;
+  }
+  
+  .status-badge.confirmed,
+  .status-badge.paid {
+    background: linear-gradient(90deg, #43e97b 0%, #38f9d7 100%);
+    color: #1b5e20;
+  }
+  
+  .status-badge.pending {
+    background: linear-gradient(90deg, #ffb347 0%, #ffcc33 100%);
+    color: #a67c00;
+  }
+  
+  .status-badge.cancelled {
+    background: linear-gradient(90deg, #ff5858 0%, #f09819 100%);
+    color: #b71c1c;
+  }
+  
+  @media (max-width: 700px) {
+    .booking-history-title {
+      font-size: 1.4rem;
+    }
+    .booking-table th,
+    .booking-table td {
+      font-size: 0.93rem;
+      padding: 10px 6px;
+    }
+    .booking-history-container {
+      padding: 8px 2px;
+    }
+  }
+  
