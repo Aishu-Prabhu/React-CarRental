@@ -40,3 +40,7 @@ DEMO OUTPUTS:
 9.ABOUT US 
 ![Screenshot 2025-05-03 130909](https://github.com/user-attachments/assets/0616c846-4969-40c8-b7b6-1caf98c62f27)
 
+10.TESTIMONIALS
+![image](https://github.com/user-attachments/assets/59595596-0a22-43ed-a706-2b4baf0debe5)
+
+
